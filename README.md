@@ -1,10 +1,10 @@
-# " Weather Application using HTML, CSS, JavaScript & RestAPI"
+# " Weather Application using HTML, CSS, JavaScript & RestAPI" 
 
 
 Overview of Weather App
 It's a Simple Weather Application made by using HTML, CSS & JavaScript.
 
-The app is created by Aryan Singh for helping out the beginners on how to make Simple Weather Application using HTML, CSS & JavaScript
+The app is created by "#Aryan Singh" for helping out the beginners on how to make Simple Weather Application using HTML, CSS & JavaScript
 
 Live Demo:aryansinghiiit.github.io/weather-app/
 
